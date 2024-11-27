@@ -1,7 +1,5 @@
 # Dj-Amazon-Clone
 
-![GitHub stars][]![GitHub watchers][]![GitHub forks][]
-
 ## Description
 Dj-Amazon-Clone is a Django Rest API designed to power your e-commerce platform. It provides a comprehensive set of features and functionalities to build and manage your online store. This project aims to replicate the core functionality and user experience of the popular e-commerce platform Amazon.
 
